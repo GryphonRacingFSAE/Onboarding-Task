@@ -49,7 +49,7 @@ You will be creating a simple morse code program using the ESP32's built-in LED:
 ### Program Parameters
 
 1. The task will be to spell the word **MISSISSIPPI**
-2. The morse code system should work on the basis of a default time unit (500ms)
+2. The morse code system should work on the basis of a default time unit (300ms)
 3. The following time unit multiples should be used for each feature:
 
 | Feature                   | Time (units) |
